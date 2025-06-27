@@ -244,7 +244,7 @@ void loadSceneFromFile(const std::string &filename, const std::string &assetPath
 
         AnimatedObject object;
         object.VAO = VAO;
-        object.textureID = texDiffuse; // aqui você pode expandir para armazenar também normal e specular se quiser
+        object.textureID = texDiffuse;
         object.vertexCount = vertexCount;
         object.position = glm::vec3(obj["position"][0], obj["position"][1], obj["position"][2]);
         object.rotation = glm::vec3(obj["rotation"][0], obj["rotation"][1], obj["rotation"][2]);
