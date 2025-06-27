@@ -1,0 +1,141 @@
+{
+    "objects": [
+        {
+            "file": "Cube.obj",
+            "material": "Cube.mtl",
+            "position": [
+                -2.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "waypoints": [
+                [
+                    -2.0,
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0,
+                    2.0
+                ]
+            ]
+        },
+        {
+            "file": "Suzanne.obj",
+            "material": "Suzanne.mtl",
+            "position": [
+                2.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "waypoints": []
+        },
+        {
+            "file": "BerievA50.obj",
+            "material": "BerievA50.mtl",
+            "name": "BerievA50",
+            "position": [
+                10.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                10.0
+            ],
+            "scale": 0.1,
+            "waypoints": [
+                [
+                    10,
+                    5,
+                    0
+                ],
+                [
+                    7,
+                    5,
+                    7
+                ],
+                [
+                    0,
+                    5,
+                    10
+                ],
+                [
+                    -7,
+                    5,
+                    7
+                ],
+                [
+                    -10,
+                    5,
+                    0
+                ],
+                [
+                    -7,
+                    5,
+                    -7
+                ],
+                [
+                    0,
+                    5,
+                    -10
+                ],
+                [
+                    7,
+                    5,
+                    -7
+                ]
+            ]
+        },
+        {
+            "file": "warehouse.obj",
+            "material": "warehouse.mtl",
+            "name": "warehouse",
+            "position": [
+                -10.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                10.0
+            ],
+            "scale": 0.05,
+            "waypoints": []
+        }
+    ],
+    "light": {
+        "position": [
+            1.2,
+            1.0,
+            2.0
+        ],
+        "color": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "camera": {
+        "position": [
+            0.0,
+            0.0,
+            3.0
+        ]
+    }
+}
