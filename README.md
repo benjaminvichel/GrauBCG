@@ -1,5 +1,10 @@
 # GrauBCG
 Atividades Computação gráfica
+
+Para executar:
+CMake build
+cd build
+./Modulo2.exe
 --------------------------------------//---------------------------------------------------
 Módulo 1: 
 ESC: Fecha a janela.
@@ -52,6 +57,8 @@ w/a/s/d para movimentar
 Mouse 
 --------------------------------------//---------------------------------------------------
 Trabalho Grau B:
+
+Video de apresentação em assets/videos/
 
 ESC	Fecha o programa (fecha a janela)
 TAB	Alterna entre os objetos animados (seleciona o próximo objeto)
