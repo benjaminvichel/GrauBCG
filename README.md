@@ -1,10 +1,16 @@
-# GrauBCG
-Atividades Computação gráfica
+# 🎓 GrauBCG - Atividades de Computação Gráfica
 
-Para executar:
-CMake build
+Projeto com múltiplos módulos desenvolvidos usando OpenGL moderno (GLFW, GLAD, GLM, stb_image, shaders GLSL 450). Inclui também um trabalho final com animação, iluminação Phong e interações com teclado/mouse.
+
+---
+
+## 🔧 Como Executar
+
+```bash
+cmake -B build
 cd build
 ./Modulo2.exe
+
 --------------------------------------//---------------------------------------------------
 Módulo 1: 
 ESC: Fecha a janela.
