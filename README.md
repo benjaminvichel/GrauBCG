@@ -64,7 +64,7 @@ Mouse
 --------------------------------------//---------------------------------------------------
 Trabalho Grau B:
 
-Video de apresentação em assets/videos/
+Video de apresentação em: https://youtu.be/mtHLGS3dji0
 
 ESC	Fecha o programa (fecha a janela)
 TAB	Alterna entre os objetos animados (seleciona o próximo objeto)
